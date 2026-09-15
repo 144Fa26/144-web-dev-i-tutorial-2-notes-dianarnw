@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "144-web-dev-i"
+assignment: "tutorial-2-notes"
+owner:
+  username: "dianarNW"
+  id: 22034226
+  accepted_at: "2026-09-15T14:34:45Z"
+source:
+  owner: "144Fa26"
+  owner_id: 299228787
+  repo: "tutorial2notes"
+  branch: "main"
